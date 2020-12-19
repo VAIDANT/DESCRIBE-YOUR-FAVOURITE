@@ -1,0 +1,60 @@
+body {
+  background-color:orange;
+  text-align:center;
+}
+
+h6 {
+  text-decoration: underline black;
+  margin-top:85px;
+}
+
+h1 {
+  font-variant:small-caps;
+  font-size:45px;
+  border:5px solid;
+  color:white;
+}
+
+h2 {
+   font-size: 30px;
+  font-weight:bold;
+}
+
+p {
+  font-size:25px;
+}
+
+img {
+  height:350px;
+  border-radius:20px;
+}
+
+.menu {
+    font-size: 25px;
+    padding: 10px;
+    list-style: none;
+    margin-top: 0;
+    top: 0;
+    cursor: pointer;
+    background-color: transparent;
+    position: fixed;
+    width: 100%;
+    text-align: right;
+}
+
+.links {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-transform: capitalize;
+}
+
+a {
+    font-size:25px;
+    color: chartreuse;
+}
+
+a:hover {
+    color:white;
+    font-size: 32px;
+}
