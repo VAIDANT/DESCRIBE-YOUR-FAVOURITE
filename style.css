@@ -60,3 +60,12 @@ a:hover {
     color:white;
     font-size: 32px;
 }
+
+#picture{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+#picture:hover {
+    transform: scale(0.9);
+}
