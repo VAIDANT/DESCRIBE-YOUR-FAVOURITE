@@ -51,12 +51,12 @@ img {
     scroll-behavior: smooth;
 }
 
-a {
+.menu_items {
     font-size:25px;
     color: chartreuse;
 }
 
-a:hover {
+.menu_items:hover {
     color:white;
     font-size: 32px;
 }
